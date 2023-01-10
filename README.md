@@ -38,7 +38,7 @@ Operation keys: WASD / direction key
 
 Difficulty level: 1 / 2(X) / 3(X)
 
-Additional function: Register top score / restart
+Additional function: Register top score / restart 
 
 @Planning to make only the basic examples and work on additional functions and adjustment of difficulty (additional)@
 
