@@ -3,6 +3,8 @@
 ⭐ 출처 ⭐
 ------------
 <b>레트로 2022 책 참고하여 제작
+  
+※따라하면서 제작한 게임 추후 부가기능을 넣어 만들 예정※  
 
 <a href = "https://github.com/IJEMIN/Unity-Programming-Essence-2021">retr0 Github</a>
 <br>
@@ -25,12 +27,16 @@
 ⭐ Eng ver. ⭐
 -----------
 <b>Produced by referring to the retr0 2022 book</b>
+  
+※ The game was produced while copying will be made with additional functions later ※ 
 
 <a href = "https://github.com/IJEMIN/Unity-Programming-Essence-2021">retr0 Github</a>
 
 ⭐ How to use ⭐
 ----------------
 Game Name: Dodge
+  
+※ The game was produced while copying will be made with additional functions later ※ 
 
 Explain: A game of avoiding countless bullets and holding out for a long time.
 
